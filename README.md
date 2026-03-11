@@ -1,32 +1,27 @@
 # Hi, I'm Janardhan 👋
 
-### Aspiring DevOps & Cloud Engineer
+---## 👨‍💻 About Me
 
-🎓 IT Student (6th Semester) passionate about **DevOps, automation, and cloud technologies**.
-Currently learning and building projects with **Linux, Shell Scripting, Git, and Cloud tools**.
+DevOps & Cloud enthusiast learning **AWS, Terraform, Docker, Kubernetes, and CI/CD pipelines**.  
+Passionate about **automation, cloud infrastructure, and building scalable, reliable systems**.
 
----
+Always exploring new ways to **simplify workflows and automate DevOps processes**.
 
 ## 🚀 What I'm Currently Working On
 
 * **90 Days of DevOps Challenge**
-* Linux & Shell scripting automation
-* Git and GitHub workflows
-* Learning DevOps tools and cloud technologies
-
 ---
+
 
 ## 🛠 Skills & Tools
 
-* **Linux**
-* **Shell / Bash Scripting**
-* **Git & GitHub**
-* **Python**
-* **AWS**
-* **Docker**
-* **Kubernetes**
-* **Terraform**
-* **Jenkins**
+- **Foundation:** Linux, Bash, Networking Fundamentals
+- **Cloud Platform:** AWS
+- **Containers & Orchestration:** Docker, Kubernetes
+- **Infrastructure as Code:** Terraform
+- **CI/CD Pipelines:** Jenkins, GitHub Actions
+- **Version Control:** Git & GitHub
+
 
 ---
 
