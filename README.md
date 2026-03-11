@@ -1,9 +1,9 @@
 # Hi, I'm Janardhan 👋
 
----## 👨‍💻 About Me
+## 👨‍💻 About Me
 
-DevOps & Cloud enthusiast learning **AWS, Terraform, Docker, Kubernetes, and CI/CD pipelines**.  
-Passionate about **automation, cloud infrastructure, and building scalable, reliable systems**.
+Pre-final year B.Tech IT student aspiring to become a DevOps Engineer.  
+Currently learning Linux, AWS, Terraform, Docker, Kubernetes, and CI/CD pipelines.
 
 Always exploring new ways to **simplify workflows and automate DevOps processes**.
 
