@@ -38,5 +38,4 @@ Always exploring new ways to **simplify workflows and automate DevOps processes*
 ## 📫 Contact
 
 📧 Email: [jana020711@gmail.com](mailto:jana020711@gmail.com)
-💻 GitHub: https://github.com/janardhan077
 🔗 LinkedIn: https://www.linkedin.com/in/janardhan-s-228bba35a
