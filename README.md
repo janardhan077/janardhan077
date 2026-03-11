@@ -1,4 +1,3 @@
-
 # Hi, I'm Janardhan 👋
 
 ### Aspiring DevOps & Cloud Engineer
@@ -34,9 +33,10 @@ Currently learning and building projects with **Linux, Shell Scripting, Git, and
 ## 📂 Important Repositories
 
 * [90DaysOfDevOps](https://github.com/janardhan077/90DaysOfDevOps)
-* [Shell Scripts](https://github.com/janardhan077/shell-scripts)
-* [Python Scripts](https://github.com/janardhan077/python-scripts)
-* [DevOps Notes](https://github.com/janardhan077/devops-notes)
+* [shell_scripting_task](https://github.com/janardhan077/shell_scripting_task)
+* [GIT_HUB_FOR_DEVOPS](https://github.com/janardhan077/GIT_HUB_FOR_DEVOPS)
+* [docker-hands-on](https://github.com/janardhan077/docker-hands-on)
+* [python-for-devops](https://github.com/janardhan077/python-for-devops)
 
 ---
 
@@ -44,3 +44,4 @@ Currently learning and building projects with **Linux, Shell Scripting, Git, and
 
 📧 Email: [jana020711@gmail.com](mailto:jana020711@gmail.com)
 💻 GitHub: https://github.com/janardhan077
+🔗 LinkedIn: https://www.linkedin.com/in/janardhan-s-228bba35a
